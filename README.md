@@ -1,2 +1,9 @@
 # HUNEM-1.0-Fuel-Performance-Code
 Main and Sub-Routines of HUNEM-1.0 Fuel Performance Code
+
+Recent findings have made it clear that hydrogen plays an important role in the embrittlement of zirconium-based alloys and therefore must be correctly estimated with fuel performance codes to assess the condition of the fuel rods after various design-based accidents. The potential presence of such effects is particularly important for high combustion fuel where hydrogen uptake within the fuel cladding can be significant. The mechanical behavior is one of the critical inputs for fuel modeling codes, and therefore a mechanical understanding of the deformation behavior is critical for reactor safety.
+
+In this study, Zircaloy-4 type zirconium-based fuel cladding material, which is frequently used in pressurized water reactors (PWR), is modeled as a one-dimensional cylinder with the HUNEM-1.0 fuel performance code which is developed. 
+
+In the model, the time-dependent diffusion coefficient and mass gain of oxygen were first calculated and then the oxide displacement model was developed with oxide metal interface
+temperatures. An oxide thickness was determined by including the effect of heat flux, temperature gradient, rapid neutron flux and coolant chemistry. Finally, the mechanical and also the deformation behavior of the Zircaloy-4 alloy in terms of the hydrogen concentration was modeled with the help of empirical correlations by HUNEM-1.0 fuel performance code through the correlations obtained from the literature with the thickness of the metal-oxide interface and the hydrogen collected in the alloy. In order to verify some of the HUNEM-1.0 fuel performance code outputs, a similar cylindrical fuel rod in one dimension was modeled with the FRAPCON-3.4 fuel performance code and the results were evaluated.
